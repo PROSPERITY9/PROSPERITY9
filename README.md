@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @PROSPERITY9
-- 👀 I’m interested in web development. 
-- 🌱 I’m currently learning react. 
-- 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me katiyaryashi863@gmail.com or dm on insta @katiyaryashi9
+- 👋 Hi, I’m Yashi Katiyar.
+- 👀 I’m interested in DATA SCIENCE. 
+- 💞️ I’m looking to collaborate on DATA SCIENCE related projects.
+- 📫 How to reach me yashi.officialreach@gmail.com or dm on Linkedin(Yashi Katiyar).
 
 <!---
 PROSPERITY9/PROSPERITY9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
